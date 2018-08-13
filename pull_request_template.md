@@ -1,4 +1,4 @@
-#Descripcin
+#Descripción
 ¿Qué ha cambiado?
 
 - [] Frontend
@@ -6,4 +6,4 @@
 - [] Configuracin del server
 
 # ¿Cómo puedo probar los cambios?
-en que url y forma puedo fver el update
+en que url y forma puedo ver el update
